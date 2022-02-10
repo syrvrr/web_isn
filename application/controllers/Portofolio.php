@@ -51,7 +51,7 @@ class Portofolio extends CI_Controller {
 
         $this->template->load('templatebaru','portofolio/pkk',$data);
       
-        }
+    }
 
      public function sppd()
 	{

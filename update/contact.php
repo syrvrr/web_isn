@@ -33,9 +33,9 @@
                 <!-- Contacts -->
                 <h3>The Office</h3>
                 <ul class="list-unstyled who">
-                    <li><i class="fa fa-home"></i> Jl.Lintas Sumatera KM 110, Air Putih, Batu Bara</a></li>
-                    <li><i class="fa fa-envelope"></i> info@isolusinet.co.id</li>
-                    <li><i class="fa fa-phone"></i> 0622 5431 271</li>
+                    <li><i class="fa fa-home"></i> JL. GAPERTA UJUNG NO.45, TJ. GUSTA, KEC. MEDAN HELVETIA, KOTA MEDAN, SUMATERA UTARA 20125</a></li>
+                    <li><i class="fa fa-envelope"></i> support@isn.co.id</li>
+                    <li><i class="fa fa-phone"></i> 0822 7683 8495</li>
                     <li><i class="fa fa-globe"></i><a href="#"> http://www.isolusinet.co.id</a></li>
                 </ul>
 

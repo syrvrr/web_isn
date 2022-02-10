@@ -16,8 +16,8 @@
 
 					<ul class="list-unstyled address">
 						<li>email: <strong><a href="mailto:marketing@unify.com">info@isolusinet.co.if</a></strong></li>
-						<li>phone number: <strong>0622 5431 271</strong></li>
-						<li>address: <strong> Jl.Lintas Sumatera KM 110, Air Putih, Batu Bara<br></strong></li>
+						<li>phone number: <strong>0822 7683 8495</strong></li>
+						<li>address: <strong> JL. GAPERTA UJUNG NO.45, TJ. GUSTA, KEC. MEDAN HELVETIA, KOTA MEDAN, SUMATERA UTARA 20125<br></strong></li>
 					</ul>
 
 					<ul class="g-social-icons-v2 margin-bottom-30">

@@ -64,7 +64,7 @@
 			</h3>
 			<div class="ms-layer ms-promo-travel-description" style="left: 15px; top: 324px;" data-type="text" data-delay="30" data-effect="rotate3dbottom(100,0,0,70)" data-ease="easeOutExpo" data-duration="2300">
 				<p class="g-mb-20 hidden-sm hidden-xs"> Perusahaan yang menyediakan jasa sambungan Internet dan jasa lainnya yang berhubungan, selain menyediakan Internet ISN juga menyediakan layanan lain yang berhubungan dengan internet.</p>
-				<p><a href="#" class="btn-u btn-u-lg btn-u-newblue btn-u-upper">Lihat Detail<span class="visible-3xs"></span></a></p>
+				<!-- <p><a href="#" class="btn-u btn-u-lg btn-u-newblue btn-u-upper">Lihat Detail<span class="visible-3xs"></span></a></p> -->
 			</div>
 			<img class="ms-thumb"  src="assets/img-temp/promo/thumbs/picjumbo.com_vranov-czech-republic.jpg" alt="ALT">
 		</div>
@@ -81,7 +81,7 @@
 			</h3>
 			<div class="ms-layer ms-promo-travel-description" style="left: 15px; top: 324px;" data-type="text" data-delay="30" data-effect="rotate3dbottom(100,0,0,70)" data-ease="easeOutExpo" data-duration="2300">
 				<p class="g-mb-20 hidden-sm hidden-xs">Layanan Pengembangan Website sesusai dengan kebutuhan anda dengan design elegan, templete premium dan harga bersaing dengan didukung tenaga professional dan berpengalaman. </p>
-				<p><a href="#" class="btn-u btn-u-lg btn-u-newblue btn-u-upper">Lihat Detail<span class="visible-3xs"> to London, Great Britain</span></a></p>
+				<!-- <p><a href="#" class="btn-u btn-u-lg btn-u-newblue btn-u-upper">Lihat Detail<span class="visible-3xs"> to London, Great Britain</span></a></p> -->
 			</div>
 			<img class="ms-thumb" src="assets/img-temp/promo/thumbs/photo-1420655710207-b092e1b8abe3.jpg" alt="thumb">
 		</div>
@@ -98,7 +98,7 @@
 			</h3>
 			<div class="ms-layer ms-promo-travel-description" style="left: 15px; top: 324px;" data-type="text" data-delay="10" data-effect="rotate3dbottom(100,0,0,70)" data-ease="easeOutExpo" data-duration="2300">
 				<p class="g-mb-20 hidden-sm hidden-xs">Pengembangan aplikasi untuk segala jenis kebutuhan bisnis, baik bersifat personal, perusahaan atau pun pemerintahaan. Software/Aplikasi kami dibuat dengan menggunakan metode Web Base programming, dimana program cukup dijalankan hanya dengan menggunakan browser. </p>
-				<p><a href="#" class="btn-u btn-u-lg btn-u-newblue btn-u-upper">Lihat Detail<span class="visible-3xs"> to Crete, Greece</span></a></p>
+				<!-- <p><a href="#" class="btn-u btn-u-lg btn-u-newblue btn-u-upper">Lihat Detail<span class="visible-3xs"> to Crete, Greece</span></a></p> -->
 			</div>
 			<img class="ms-thumb" src="assets/img-temp/promo/thumbs/greece-2.jpg" alt="thumb">
 		</div>
@@ -116,7 +116,7 @@
 			</h3>
 			<div class="ms-layer ms-promo-travel-description" style="left: 15px; top: 324px;" data-type="text" data-delay="30" data-effect="rotate3dbottom(100,0,0,70)" data-ease="easeOutExpo" data-duration="2300">
 				<p class="g-mb-20 hidden-sm hidden-xs">Pengembangan aplikasi mobile adalah fakta yang tak terbantahkan. Setelah semua, salah satu manfaat terbesar dari memiliki sebuah gadget yang terhubung internet adalah kemampuan untuk men-download aplikasi yang Anda butuhkan. </p>
-				<p><a href="#" class="btn-u btn-u-lg btn-u-newblue btn-u-upper">Lihat Detail<span class="visible-3xs"> to Bavaria, Germany</span></a></p>
+				<!-- <p><a href="#" class="btn-u btn-u-lg btn-u-newblue btn-u-upper">Lihat Detail<span class="visible-3xs"> to Bavaria, Germany</span></a></p> -->
 			</div>
 			<img class="ms-thumb" src="assets/img-temp/promo/thumbs/picjumbo.com_HNCK4183.jpg" alt="thumb">
 		</div>
@@ -133,7 +133,7 @@
 			</h3>
 			<div class="ms-layer ms-promo-travel-description" style="left: 15px; top: 324px;" data-type="text" data-delay="30" data-effect="rotate3dbottom(100,0,0,70)" data-ease="easeOutExpo" data-duration="2300">
 				<p class="g-mb-20 hidden-sm hidden-xs">Segala permasalahan IT .</p>
-				<p><a href="#" class="btn-u btn-u-lg btn-u-newblue btn-u-upper">Lihat Detail<span class="visible-3xs"> to Paris, France</span></a></p>
+				<!-- <p><a href="#" class="btn-u btn-u-lg btn-u-newblue btn-u-upper">Lihat Detail<span class="visible-3xs"> to Paris, France</span></a></p> -->
 			</div>
 			<img class="ms-thumb" src="assets/img-temp/promo/thumbs/photo-1431274172761-fca41d930114.jpg" alt="thumb">
 		</div>

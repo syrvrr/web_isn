@@ -47,7 +47,7 @@
 							<div class="img-wrapper img-wrapper--shadow"><img src="assets/img/purpose/internet.jpg" alt="ALT" class="img-reposnsive"></div>
 							<h3>Internet Services Provider</h3>
 							<p>Perusahaan yang menyediakan jasa sambungan Internet dan jasa lainnya yang berhubungan, selain menyediakan Internet ISN juga menyediakan layanan lain yang berhubungan dengan internet.</p>
-							<a href="<?php echo base_url().$this->uri->segment(0); ?>layanan/isp" class="btn-u btn-u-lg btn-u-newblue btn-u-upper">Read more</a>
+							<!-- <a href="<?php echo base_url().$this->uri->segment(0); ?>layanan/isp" class="btn-u btn-u-lg btn-u-newblue btn-u-upper">Read more</a> -->
 						</div>
 						<!-- End Item 1 -->
 
@@ -56,7 +56,7 @@
 							<div class="img-wrapper img-wrapper--shadow"><img src="assets/img/purpose/web.jpg" alt="ALT" class="img-reposnsive"></div>
 							<h3>Web Developer</h3>
 							<p>Layanan Pengembangan Website sesusai dengan kebutuhan anda dengan design elegan, templete premium dan harga bersaing dengan didukung tenaga professional dan berpengalaman. </p>
-							<a href="<?php echo base_url().$this->uri->segment(0); ?>layanan/web" class="btn-u btn-u-lg btn-u-newblue btn-u-upper">Read more</a>
+							<!-- <a href="<?php echo base_url().$this->uri->segment(0); ?>layanan/web" class="btn-u btn-u-lg btn-u-newblue btn-u-upper">Read more</a> -->
 						</div>
 						<!-- End Item 2 -->
 
@@ -65,7 +65,7 @@
 							<div class="img-wrapper img-wrapper--shadow"><img src="assets/img/purpose/sistem.jpg" alt="ALT" class="img-reposnsive"></div>
 							<h3>System Developer</h3>
 							<p>Pengembangan aplikasi untuk segala jenis kebutuhan bisnis, baik bersifat personal, perusahaan atau pun pemerintahaan. Software/Aplikasi kami dibuat dengan menggunakan metode Web Base programming, dimana program cukup dijalankan hanya dengan menggunakan browser.</p>
-							<a href="<?php echo base_url().$this->uri->segment(0); ?>layanan/system" class="btn-u btn-u-lg btn-u-newblue btn-u-upper">Read more</a>
+							<!-- <a href="<?php echo base_url().$this->uri->segment(0); ?>layanan/system" class="btn-u btn-u-lg btn-u-newblue btn-u-upper">Read more</a> -->
 						</div>
 						<!-- End Item 3 -->
 
@@ -74,7 +74,7 @@
 							<div class="img-wrapper img-wrapper--shadow"><img src="assets/img/purpose/mobile.jpg" alt="ALT" class="img-reposnsive"></div>
 							<h3>Mobile Developer</h3>
 							<p>Pengembangan aplikasi mobile adalah fakta yang tak terbantahkan. Setelah semua, salah satu manfaat terbesar dari memiliki sebuah gadget yang terhubung internet adalah kemampuan untuk men-download aplikasi yang Anda butuhkan.</p>
-							<a href="<?php echo base_url().$this->uri->segment(0); ?>layanan/mobile" class="btn-u btn-u-lg btn-u-newblue btn-u-upper">Read more</a>
+							<!-- <a href="<?php echo base_url().$this->uri->segment(0); ?>layanan/mobile" class="btn-u btn-u-lg btn-u-newblue btn-u-upper">Read more</a> -->
 						</div>
 						<!-- End Item 4 -->
 
@@ -83,7 +83,7 @@
 							<div class="img-wrapper img-wrapper--shadow"><img src="assets/img/purpose/all.jpg" alt="ALT" class="img-reposnsive"></div>
 							<h3>And All IT Solution</h3>
 							<p>Segala Permasalahan IT</p>
-							<a href="#" class="btn-u btn-u-lg btn-u-newblue btn-u-upper">Read more</a>
+							<!-- <a href="#" class="btn-u btn-u-lg btn-u-newblue btn-u-upper">Read more</a> -->
 						</div>
 						<!-- End Item 5 -->
 					</div>
@@ -218,7 +218,7 @@
 				<div class="master-slider" id="masterslider">
 					<!-- Item 1 -->
 					<div class="ms-slide">
-						<img src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="assets/img-temp/testimonials/1.jpg" alt="ALT"/>
+						<img src="<?= base_url('assets/img/testimonial/default.svg') ?>" data-src="<?= base_url('assets/img/testimonial/default.svg') ?>" alt="ALT"/>
 						<div class="ms-info">
 							<h3 class="ms-info-name">Andri Rahardian</h3>
 							<h4 class="ms-info-position">Kepala Diskominfo Batu Bara</h4>
@@ -231,7 +231,7 @@
 
 					<!-- Item 2 -->
 					<div class="ms-slide">
-						<img src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="assets/img-temp/testimonials/2.jpg" alt="ALT"/>
+						<img src="<?= base_url('assets/img/testimonial/default.svg') ?>" data-src="<?= base_url('assets/img/testimonial/default.svg') ?>" alt="ALT"/>
 						<div class="ms-info">
 							<h3 class="ms-info-name">Rijali</h3>
 							<h4 class="ms-info-position">Plt Kepala BPPRD Batu Bara</h4>
@@ -244,7 +244,7 @@
 
 					<!-- Item 3 -->
 					<div class="ms-slide">
-						<img src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="assets/img-temp/testimonials/3.jpg" alt="ALT"/>
+						<img src="<?= base_url('assets/img/testimonial/default.svg') ?>" data-src="<?= base_url('assets/img/testimonial/default.svg') ?>" alt="ALT"/>
 						<div class="ms-info">
 							<h3 class="ms-info-name">Mastur</h3>
 							<h4 class="ms-info-position">Staff Diskominfo Musi Banyuasin</h4>
@@ -257,7 +257,7 @@
 
 					<!-- Item 4 -->
 					<div class="ms-slide">
-						<img src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="assets/img-temp/testimonials/4.jpg" alt="ALT"/>
+						<img src="<?= base_url('assets/img/testimonial/default.svg') ?>" data-src="<?= base_url('assets/img/testimonial/default.svg') ?>" alt="ALT"/>
 						<div class="ms-info">
 							<h3 class="ms-info-name">Martina Saiz</h3>
 							<h4 class="ms-info-position">UI Designer</h4>
@@ -270,7 +270,7 @@
 
 					<!-- Item 5 -->
 					<div class="ms-slide">
-						<img src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="assets/img-temp/testimonials/5.jpg" alt="ALT"/>
+						<img src="<?= base_url('assets/img/testimonial/default.svg') ?>" data-src="<?= base_url('assets/img/testimonial/default.svg') ?>" alt="ALT"/>
 						<div class="ms-info">
 							<h3 class="ms-info-name">Joseph B. Seward</h3>
 							<h4 class="ms-info-position">Developer</h4>
@@ -283,7 +283,7 @@
 
 					<!-- Item 6 -->
 					<div class="ms-slide">
-						<img src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="assets/img-temp/testimonials/6.jpg" alt="ALT"/>
+						<img src="<?= base_url('assets/img/testimonial/default.svg') ?>" data-src="<?= base_url('assets/img/testimonial/default.svg') ?>" alt="ALT"/>
 						<div class="ms-info">
 							<h3 class="ms-info-name">Jane Lopex</h3>
 							<h4 class="ms-info-position">Company CEO</h4>
@@ -296,7 +296,7 @@
 
 					<!-- Item 7 -->
 					<div class="ms-slide">
-						<img src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="assets/img-temp/testimonials/7.jpg" alt="ALT"/>
+						<img src="<?= base_url('assets/img/testimonial/default.svg') ?>" data-src="<?= base_url('assets/img/testimonial/default.svg') ?>" alt="ALT"/>
 						<div class="ms-info">
 							<h3 class="ms-info-name">James Ridgway</h3>
 							<h4 class="ms-info-position">IT Manager</h4>
@@ -309,7 +309,7 @@
 
 					<!-- Item 8 -->
 					<div class="ms-slide">
-						<img src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="assets/img-temp/testimonials/8.jpg" alt="ALT"/>
+						<img src="<?= base_url('assets/img/testimonial/default.svg') ?>" data-src="<?= base_url('assets/img/testimonial/default.svg') ?>" alt="ALT"/>
 						<div class="ms-info">
 							<h3 class="ms-info-name">PAatricia Burns</h3>
 							<h4 class="ms-info-position">System Admin</h4>
@@ -322,7 +322,7 @@
 
 					<!-- Item 9 -->
 					<div class="ms-slide">
-						<img src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="assets/img-temp/testimonials/9.jpg" alt="ALT"/>
+						<img src="<?= base_url('assets/img/testimonial/default.svg') ?>" data-src="<?= base_url('assets/img/testimonial/default.svg') ?>" alt="ALT"/>
 						<div class="ms-info">
 							<h3 class="ms-info-name">Terry Thompson</h3>
 							<h4 class="ms-info-position">Reviewer</h4>

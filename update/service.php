@@ -21,7 +21,7 @@
                     <div class="timeline-body text-justify">
                         <h2 class="font-light"><a href="#">Internet Service Provider</a></h2>
                         <p>Perusahaan yang menyediakan jasa sambungan Internet dan jasa lainnya yang berhubungan, selain menyediakan Internet ISN juga menyediakan layanan lain yang berhubungan dengan internet.</p>
-                        <a class="btn-u btn-u-sm" href="#">Read More</a>
+                        <!-- <a class="btn-u btn-u-sm" href="#">Read More</a> -->
                     </div>
                     <div class="timeline-footer">
 
@@ -37,7 +37,7 @@
                     <div class="timeline-body text-justify">
                         <h2 class="font-light"><a href="#">Web Developer</a></h2>
                         <p>Layanan Pengembangan Website sesusai dengan kebutuhan anda dengan design elegan, templete premium dan harga bersaing dengan didukung tenaga professional dan berpengalaman.</p>
-                        <a class="btn-u btn-u-sm" href="#">Read More</a>
+                        <!-- <a class="btn-u btn-u-sm" href="#">Read More</a> -->
                     </div>
                     <div class="timeline-footer">
                        
@@ -53,7 +53,7 @@
                     <div class="timeline-body text-justify">
                         <h2 class="font-light"><a href="#">System Developer</a></h2>
                         <p>Pengembangan aplikasi untuk segala jenis kebutuhan bisnis, baik bersifat personal, perusahaan atau pun pemerintahaan. Software/Aplikasi kami dibuat dengan menggunakan metode Web Base programming, dimana program cukup dijalankan hanya dengan menggunakan browser.</p>
-                        <a class="btn-u btn-u-sm" href="#">Read More</a>
+                        <!-- <a class="btn-u btn-u-sm" href="#">Read More</a> -->
                     </div>
                     <div class="timeline-footer">
                        
@@ -69,7 +69,7 @@
                     <div class="timeline-body text-justify">
                         <h2 class="font-light"><a href="#">Mobile Developer</a></h2>
                         <p>Pengembangan aplikasi mobile adalah fakta yang tak terbantahkan. Setelah semua, salah satu manfaat terbesar dari memiliki sebuah gadget yang terhubung internet adalah kemampuan untuk men-download aplikasi yang Anda butuhkan.</p>
-                        <a class="btn-u btn-u-sm" href="#">Read More</a>
+                        <!-- <a class="btn-u btn-u-sm" href="#">Read More</a> -->
                     </div>
                     <div class="timeline-footer">
                        
@@ -85,7 +85,7 @@
                     <div class="timeline-body text-justify">
                         <h2 class="font-light"><a href="#">And All IT Solution</a></h2>
                         <p>Segala Permasalahan IT</p>
-                        <a class="btn-u btn-u-sm" href="#">Read More</a>
+                        <!-- <a class="btn-u btn-u-sm" href="#">Read More</a> -->
                     </div>
                     <div class="timeline-footer primary">
                        

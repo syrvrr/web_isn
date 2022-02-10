@@ -70,7 +70,6 @@
 <script src="<?php echo base_url(); ?>assets/onepage/plugins/sky-forms-pro/skyforms/js/jquery-ui.min.js"></script>
 <script src="<?php echo base_url(); ?>assets/onepage/plugins/sky-forms-pro/skyforms/js/jquery.validate.min.js"></script>
 <script src="<?php echo base_url(); ?>assets/onepage/plugins/cube-portfolio/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
-<script src="https://maps.googleapis.com/maps/api/js?signed_in=true&amp;callback=initMap" async defer></script><script src="assets/js/plugins/gmaps-ini.js"></script>
 <script src="<?php echo base_url(); ?>assets/onepage/plugins/master-slider/masterslider/masterslider.min.js"></script>
 
 
