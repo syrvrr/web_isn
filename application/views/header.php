@@ -39,7 +39,8 @@
 							<a href="<?php echo base_url().$this->uri->segment(0); ?>front/galeri"><span data-hover="Gallery">Gallery</span></a>
 						</li>
 						<li class="page-scroll">
-							<a href="http://bit.ly/isnregistrasi" target="_blank"><span data-hover="Daftar">Daftar</span></a>
+							<a href="#" target="_blank"><span data-hover="Daftar">Daftar</span></a>
+							<!-- <a href="http://bit.ly/isnregistrasi" target="_blank"><span data-hover="Daftar">Daftar</span></a> -->
 						</li>
 					</ul>
 				</div>

@@ -16,7 +16,7 @@
 
 					<ul class="list-unstyled address">
 						<li>email: <strong><a href="mailto:marketing@unify.com">support@isn.co.id</a></strong></li>
-						<li>phone number: <strong>0822 7683 8495</strong></li>
+						<li>phone number: <strong>+62 614 2562 635</strong></li>
 						<li>address: <strong> JL. GAPERTA UJUNG NO.45, TJ. GUSTA, KEC. MEDAN HELVETIA, KOTA MEDAN, SUMATERA UTARA 20125<br></strong></li>
 					</ul>
 

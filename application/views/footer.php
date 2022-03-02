@@ -18,7 +18,7 @@
 
 					<ul class="list-unstyled address">
 						<li>email: <strong><a href="mailto:support@isn.co.id">support@isn.co.id</a></strong></li>
-						<li>phone number: <strong>0822 7683 8495</strong></li>
+						<li>phone number: <strong>+62 614 2562 635</strong></li>
 						<li>address: <strong> Jl. Gaperta Ujung No.45, Tj. Gusta, Kec. Medan Helvetia, Kota Medan, Sumatera Utara 20125<br></strong></li>
 					</ul>
 
