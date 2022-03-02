@@ -35,7 +35,7 @@
                 <ul class="list-unstyled who">
                     <li><i class="fa fa-home"></i> JL. GAPERTA UJUNG NO.45, TJ. GUSTA, KEC. MEDAN HELVETIA, KOTA MEDAN, SUMATERA UTARA 20125</a></li>
                     <li><i class="fa fa-envelope"></i> support@isolusinet.co.id</li>
-                    <li><i class="fa fa-phone"></i> 0822 7683 8495</li>
+                    <li><i class="fa fa-phone"></i>+62 614 2562 635</li>
                     <li><i class="fa fa-globe"></i><a href="#"> http://www.isolusinet.co.id</a></li>
                 </ul>
 
